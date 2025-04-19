@@ -1,6 +1,7 @@
 # Retail Revenue Prediction Task (Predicting with Limited Data)
 This project develops a revenue prediction model for ABC-Retail using limited transaction data to predict quarterly revenue indices. The project addresses several key challenges including small sample size, varying reporting periods, and the need to aggregate daily data to quarterly predictions.
 
+![image](https://github.com/user-attachments/assets/4b3ed551-fc47-416d-8850-4822ed1e3d5b)
 ## Retail Revenue Prediction (Predicting with Limited Data)
 
 In this project, I developed a revenue prediction model for a made up retailer using limited transactional data. This mini project was split into 3 steps including: Data Cleaning, Feature Engineering and Modeling. 
